@@ -1,0 +1,91 @@
+.wholepage {
+
+    background-color: #ae946c;
+}
+
+.row {
+    font-family: 'Montserrat', sans-serif;
+    border-bottom-color: white;
+    border: 1px solid white;
+    background-color: #b79f7b;
+    color: grey;
+    font-size: 10px;
+    display: flex;
+    padding: 19px;
+    margin: 50px;
+
+}
+
+#imgs {
+    height: 30%;
+    width: 30%;
+}
+
+.rowcontact {
+    display: flex;
+    padding: 5px;
+    margin: 100px;
+    background-color: #c39f65;
+    color: White;
+    font-size: 10px;
+    text-align: center;
+}
+
+.head {
+    display: flex;
+    padding: 2px;
+    margin: 5px;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+h2 {
+    color: white;
+}
+
+
+.name {
+    color: Black;
+    font-size: 25px;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+
+
+
+}
+
+.photo1 {
+    width: 20%;
+    border-radius: 200%;
+    border: 1px solid white;
+    display: flex;
+}
+
+.rowfooter {
+    color: white;
+}
+
+.mid {
+    background-color: white;
+    align-items: center;
+    font-size: 50px;
+    margin-top: 2px;
+    margin-bottom: 3px;
+    display: flex;
+}
+
+.aboutme {
+    border-radius: 2%;
+    border: 1px solid white;
+}
+
+.btn {
+    color: white;
+    width: 300px;
+    display: flex;
+    font-size: medium;
+
+
+
+}
